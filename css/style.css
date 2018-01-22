@@ -1,0 +1,27 @@
+.adminbox{
+
+    background-color: tomato;
+    color:#fff;
+    height:10%;
+    line-height: 100px;
+    text-align: center;
+}
+.studentdash{
+
+  background-color: lightblue;
+  line-height: 50px;
+  padding: 10px;
+
+}
+.studentlink {
+
+  text-align:center;
+  margin-left:300px;
+  width: 50%;
+  height: auto;
+  background-color: red;
+}
+ol li a,li{
+  font-size: 20px;
+  text-decoration: none;
+}
